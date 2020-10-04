@@ -14,7 +14,7 @@ build this site.  Often you can make changes using the GitHub UI.
 
 If you want/need to build, read on.
 
-## Before you build this site
+## Before you Build this Site
 
 ### 1. Get the prerequisites
 
@@ -65,7 +65,7 @@ submodule-cloning techniques:
 > git pull; git submodule update --init --remote
 > ```
 
-### 3. Run installation scripts
+### 3. Run Installation Scripts
 
 > NOTE: It is safe to (re-)run all of the commands and scripts given below even
 if you already have the required packages installed.
